@@ -1,4 +1,5 @@
-// 1 misol
+// Hammasini ozim qilganman ✔
+// 1 misol 
 
 // function checkNum(n){
 //     if(n > 0 && n < 9){
@@ -81,6 +82,15 @@
 // let result = createObject(exampleArray);
 // console.log(result); 
 
+// 6 misol (Bunga qanday qilishni ja yaxshi tushunmadim)
+
+// let number = +prompt("Ixtiyoriy sonni kiriting")
+// if(number % 2 == 0){
+//     let result = number * number
+//     alert(`Bu sonning darajasi ${result}`)
+// }
+
+
 // 7 misol
 
 // let arr = [1,23,4,55,2]
@@ -93,6 +103,3 @@
 // }
 // console.log(arr[2])
 
-// Qoshimcha
-
-let trueFalse
